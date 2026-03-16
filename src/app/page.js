@@ -3,7 +3,7 @@
    
    const pageStyle = {
     minHeight: "100vh",
-    backgroundImage: "url('/croft2.jpeg')",
+    backgroundImage: "url('/croft.jpg')",
     backgroundSize: "cover",
     backgroundPosition: "center",
     backgroundRepeat: "no-repeat",
